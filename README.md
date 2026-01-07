@@ -6,7 +6,7 @@ Designed to reflect my journey as a **B.Tech CSE student** and aspiring **Full S
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-username.github.io/portfolio/
+🔗 https://251647-tech.github.io/Harsh-portfolio/
 
 ---
 
